@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Correo</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script src="scripts.js" defer></script>
+</head>
+<body>
+    <div id="loginSection" class="section">
+        <div class="login-container">
+            <h2>Iniciar Sesión</h2>
+            <input type="text" id="user" class="input-field" placeholder="Usuario">
+            <input type="password" id="passwd" class="input-field" placeholder="Contraseña">
+            <button type="button" id="loginButton" class="button" onclick="handleLogin()">Iniciar sesión</button>
+            <button type="button" id="createAccountButton" class="button secondary">Crear cuenta</button>
+        </div>
+    </div>
+    <div id="appSection" class="section" style="display: none;">
+        <div class="sidebar">
+            <button id="menuToggle" class="menu-toggle"><i class="fas fa-bars"></i></button>
+            <ul id="menu" class="menu">
+                <li><a href="#" id="inboxLink"><i class="fas fa-inbox"></i> Recibidos</a></li>
+                <li><a href="#" id="sentLink"><i class="fas fa-paper-plane"></i> Enviados</a></li>
+                <li><a href="#" id="unreadLink"><i class="fas fa-envelope"></i> No leídos</a></li>
+            </ul>
+            <button id="composeButton" class="button compose"><i class="fas fa-pencil-alt"></i> Nuevo correo</button>
+        </div>
+        <div id="mainContent" class="main-content">
+            <!-- Contenido de correos -->
+        </div>
+    </div>
+</body>
+</html>
+
