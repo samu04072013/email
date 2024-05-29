@@ -28,6 +28,7 @@ document.addEventListener("DOMContentLoaded", function() {
         }
       });
       
+    document.getElementById("menuToggle").addEventListener("click",open_and_close_menu);
     function handleLogin() {
         const username = document.getElementById("user").value;
         const password = document.getElementById("passwd").value;
@@ -77,18 +78,9 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     function displayEmails(type) {
-        let emails = [];
-
-        try {
-            const storedEmails = localStorage.getItem("emails");
-            if (storedEmails) {
-                emails = JSON.parse(storedEmails);
-            }
-        } catch (error) {
-            console.error("Error al parsear los datos del almacenamiento local:", error);
-        }
+        let emails = JSON.parse(localStorage.getItem("emails"))
         
-        const username = document.getElementById(user)
+        const username = document.getElementById("user").value
         mainContent.innerHTML = "";
 
         let filteredEmails = [];
@@ -96,40 +88,33 @@ document.addEventListener("DOMContentLoaded", function() {
         if (type === "inbox") {
 
             for (let i = 0; i < emails.length; i++) {
-                console.log(`i=${i}`)
                 for (let e = 0; e < emails[i].recipients.length; e++) {
-                    console.log(`e=${e}`)
                     if (emails[i].recipients[e] == username) {
-                        filteredEmails = filteredEmails.push(emails[i]);
+                        filteredEmails.push(emails[i]);
                         break; // Salir del bucle interno una vez que se encuentra el nombre de usuario
                     }
                 }
             }
-            console.log(`work=${emails}`)
         } else if (type === "sent") {
-            work = []
-            for (i in emails)
-                {
-                    if (i.sender == username)
-                        {
-                            work.push(i)
-                        }
+            for (let i = 0; i < emails.length; i++) {
+                    if (emails[i].sender == username) {
+                        filteredEmails.push(emails[i]);
+                        break; // Salir del bucle interno una vez que se encuentra el nombre de usuario
+                    }
                 }
-                filteredEmails = emails.filter(email => email.sender in work);
         } else if (type === "unread") {
-            work = []
-            for (i in emails)
-                {
-                    if (i.recipients == username)
-                        {
-                            work.push(i)
-                        }
+            for (let i = 0; i < emails.length; i++) {
+                for (let e = 0; e < emails[i].recipients.length; e++) {
+                    if (emails[i].recipients[e] == username && !emails[i].read) {
+                        filteredEmails.push(emails[i]);
+                        break; // Salir del bucle interno una vez que se encuentra el nombre de usuario
+                    }
                 }
-                filteredEmails = emails.filter(email => email.received && email.recipients in work && !email.read);
+            }
         }
 
         for(let email_i = 0; email_i < filteredEmails.length; email_i++){
-                let email_l = filteredEmails[email_i]
+                let email_l = filteredEmails[email_i];
                 const emailItem = document.createElement("div");
                 emailItem.className = "email-item";
                 emailItem.innerHTML = `
@@ -143,11 +128,33 @@ document.addEventListener("DOMContentLoaded", function() {
                 emailItem.addEventListener("click", () => {
                     email_l.read = true;
                     localStorage.setItem("emails", JSON.stringify(emails));
-                    displayEmails(type);
+                    
+                    const parentElement = document.getElementById("mainContent"); // Reemplaza "parentElementId" con el ID del elemento padre
+
+                    // Eliminar todos los hijos del elemento padre
+                    while (parentElement.firstChild) {
+                        parentElement.removeChild(parentElement.firstChild);
+                    }
+                    displayMail(email_l)
                 });
                 mainContent.appendChild(emailItem);
+                
 
         }
+    }
+
+    function displayMail(email_l){
+        const emailItem = document.createElement("div");
+        emailItem.className = "mail";
+        emailItem.innerHTML = `
+        <div class="mail-info">
+            <span><strong>De:</strong> ${email_l.sender}</span><br>
+            <span><strong>Para:</strong> ${email_l.recipients.join(", ")}</span><br>
+            <span> ${email_l.title}</span><br><br><br>
+            <p>${email_l.content}</p>
+        </div>
+        `;
+        mainContent.appendChild(emailItem)
     }
 
     function displayComposeEmail() {
@@ -193,5 +200,53 @@ document.addEventListener("DOMContentLoaded", function() {
         sidebar.classList.toggle("collapsed");
         menu.classList.toggle("visible");
     }
-});
 
+    function open_and_close_menu() {
+        let menuBoton = document.getElementById("menuToggle");
+        let originalStyle = window.getComputedStyle(document.getElementById('composeButton'));
+        let menu = document.getElementById("menu");
+        let botonEnviar = document.getElementById("composeButton");
+        const boton2 = document.getElementById('inboxLink');
+        const boton3 = document.getElementById('unreadLink');
+        const boton4 = document.getElementById('sentLink');
+        const Enviar = document.getElementById("composeButton");
+        if (menuBoton.lastChild.tagName === "I"){
+            const texto = document.createElement('span');
+            const texto2 = document.createElement('span');
+            const texto3 = document.createElement('span');
+            const texto4 = document.createElement('span');
+            const texto5 = document.createElement("span")
+            const boton = document.getElementById('menuToggle');
+            const boton2 = document.getElementById('inboxLink');
+            const boton3 = document.getElementById('unreadLink');
+            const boton4 = document.getElementById('sentLink');
+            texto.textContent = "Menu";
+            texto2.textContent = "Recibidos";
+            texto3.textContent = "No leídos";
+            texto4.textContent = "Enviados";
+            texto5.textContent = "Nuevo correo"
+            boton.appendChild(texto);
+            boton2.appendChild(texto2);
+            boton3.appendChild(texto3);
+            boton4.appendChild(texto4);
+            Enviar.appendChild(texto5);
+            const sidebar = document.getElementById("sidebar");
+            sidebar.style.width = "250px";
+            sidebar.style.height = "100%";
+            botonEnviar.style.cssText = originalStyle.cssText;
+        }else{
+            menuBoton.lastChild.remove();
+            boton2.lastChild.remove();
+            boton3.lastChild.remove();
+            boton4.lastChild.remove();
+            Enviar.lastChild.remove();
+            const sidebar = document.getElementById("sidebar");
+            sidebar.style.width = "90px";
+            sidebar.style.height = "100%";
+            sidebar.style.margin = "0 auto";
+            menu.style.margin = " 0 auto";
+            menu.style.width = "50%";
+            botonEnviar.style.margin = "0 auto";
+            botonEnviar.style.width = "50%";
+    }
+}});
