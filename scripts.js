@@ -1,4 +1,80 @@
 // scripts.js
+async function LogIn(email, contrasenna) {
+	try {
+		const response = await fetch(`http://localhost:5011/Email/LogIn?correo=${email}&contrasenna=${contrasenna}`);
+		return  await response.json();
+	  } catch (error) {
+		console.error('Error:', error);
+	  }
+}
+async function VerClientes() {
+    try {
+      const response = await fetch('http://localhost:5011/Email/VerClientes');
+      return  await response.json();
+    } catch (error) {
+      console.error('Error:', error);
+    }
+	}
+async function VerClientes(correo, contrasenna) {
+try {
+	const response = await fetch('http://localhost:5011/Email/LogIn');
+	return  await response.json();
+} catch (error) {
+	console.error('Error:', error);
+}
+}
+
+function CrearCliente(nombre, email, contraseña) {
+return fetch('http://localhost:5011/Email/CrearCliente', {
+    method: 'POST',
+    headers: {
+    'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+    nombre: nombre,
+    correo: email,
+    contrasenna: contraseña
+    })
+})
+.then(response => response.json())
+.then(data => data)
+.catch(error => console.error('Error:', error));
+}
+
+function EnviarCorreo(asunto, mensaje, destinatario, remitente) {
+    return fetch('http://localhost:5011/Email/EnviarCorreo', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        remitente: remitente,
+        destinatarios: destinatario,
+        cuerpo: mensaje,
+        asunto: asunto        
+      })
+    })
+    .then(response => response.json())
+    .then(data => data)
+    .catch(error => console.error('Error:', error));
+  }
+
+function verCorreos(correo) {
+const result = fetch('http://localhost:5011/Email/VerCorreos', {
+    method: 'POST',
+    headers: {
+    'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+        correo: correo
+    })
+})
+.then(response => response.json())
+.then(data => data)
+.catch(error => error);
+return result
+}
+
 
 document.addEventListener("DOMContentLoaded", function() {
     const loginSection = document.getElementById("loginSection");
@@ -30,71 +106,55 @@ document.addEventListener("DOMContentLoaded", function() {
       
     document.getElementById("menuToggle").addEventListener("click",open_and_close_menu);
     function handleLogin() {
-        const username = document.getElementById("user").value;
+        const email = document.getElementById("email").value;
         const password = document.getElementById("passwd").value;
-
-        const storedPassword = localStorage.getItem(username);
-        if (storedPassword === password) {
-            alert("¡Inicio de sesión exitoso!");
-            loginSection.style.display = "none";
-            appSection.style.display = "flex";
-            displayEmails("inbox");
-        } else {
-            alert("Usuario o contraseña incorrectos");
-        }
+        LogIn(email, password).then((value) => {
+            if(value){
+                alert("¡Inicio de sesión exitoso!")
+                displayEmails("inbox")
+            }else{
+                alert("¡Usuario o contraseña incorrectos!")
+            }
+        });
+          
     }
 
     function handleCreateAccount() {
-        const username = document.getElementById("user").value;
+        const email = document.getElementById("email").value;
         const password = document.getElementById("passwd").value;
-
-        if (username) {
-            if (!localStorage.getItem(username)){
-                localStorage.setItem(username, password);
-                alert("¡Cuenta creada exitosamente!");   
-            }else{
-                if(window.confirm("cuenta ya existe,¿desea cambiar la contraseña?")){
-                    let passwd_old = window.prompt("ingresa la contraseña actual:","")
-                    if (JSON.parse(localStorage.getItem(username)) == passwd_old){
-                        passwd_new = window.prompt("ingresa la nueva contraseña:","");
-                        change_passwd(passwd_new,passwd_old,username)
-                    }else{
-                        alert("contraseña actual incorrecta")
-                    }
-                }
+        if (email){
+            try{
+            CrearCliente(window.prompt("Ingresa tu nombre: "), email, password)
+            }catch(exeption){
+                console.debug(exeption)
             }
-
-        } else {
-            alert("Por favor, ingresa un usuario y una contraseña válidos");
         }
-    }
 
-    function change_passwd(passwd_new,passwd_old,email) {
+
+    }
+    return 1
+
+
+    /*function change_passwd(passwd_new,passwd_old,email) {
         if (JSON.parse(localStorage.getItem(email)) == passwd_old){
             localStorage.setItem(email,passwd_new)
         }else{
             alert("contraseña actual es incorrecta")
         }
-    }
+    }*/
 
     function displayEmails(type) {
-        let emails = JSON.parse(localStorage.getItem("emails"))
         
-        const username = document.getElementById("user").value
+        const username = document.getElementById("email").value
         mainContent.innerHTML = "";
 
         let filteredEmails = [];
 
         if (type === "inbox") {
 
-            for (let i = 0; i < emails.length; i++) {
-                for (let e = 0; e < emails[i].recipients.length; e++) {
-                    if (emails[i].recipients[e] == username) {
-                        filteredEmails.push(emails[i]);
-                        break; // Salir del bucle interno una vez que se encuentra el nombre de usuario
-                    }
-                }
-            }
+            verCorreos(document.getElementById("email").value).then((value) => {
+                filteredEmails.push(value);
+            })
         } else if (type === "sent") {
             for (let i = 0; i < emails.length; i++) {
                     if (emails[i].sender == username) {
@@ -142,6 +202,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
         }
     }
+
+
 
     function displayMail(email_l){
         const emailItem = document.createElement("div");

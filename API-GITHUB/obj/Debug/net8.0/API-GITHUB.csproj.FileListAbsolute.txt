@@ -1,0 +1,980 @@
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.csproj.AssemblyReference.cache
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.GeneratedMSBuildEditorConfig.editorconfig
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.AssemblyInfoInputs.cache
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.AssemblyInfo.cs
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.csproj.CoreCompileInputs.cache
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.MvcApplicationPartsAssemblyInfo.cs
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.MvcApplicationPartsAssemblyInfo.cache
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.sourcelink.json
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/appsettings.Development.json
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/appsettings.json
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.deps.json
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.runtimeconfig.json
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.pdb
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets.build.json
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets.development.json
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.API-GITHUB.Microsoft.AspNetCore.StaticWebAssets.props
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.build.API-GITHUB.props
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.API-GITHUB.props
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.API-GITHUB.props
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets.pack.json
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/scopedcss/bundle/API-GITHUB.styles.css
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.csproj.Up2Date
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.dll
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/refint/API-GITHUB.dll
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.pdb
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.genruntimeconfig.cache
+/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/ref/API-GITHUB.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Azure.Core.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Azure.Identity.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Memory.Data.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Runtime.Caching.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Humanizer.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.CodeDom.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/appsettings.Development.json
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/appsettings.json
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.deps.json
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.runtimeconfig.json
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.pdb
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Azure.Core.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Azure.Identity.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Humanizer.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Mono.TextTemplating.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.CodeDom.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.Convention.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.Hosting.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.Runtime.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Drawing.Common.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Memory.Data.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Runtime.Caching.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Security.Permissions.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Windows.Extensions.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.csproj.AssemblyReference.cache
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.AssemblyInfoInputs.cache
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.AssemblyInfo.cs
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.csproj.CoreCompileInputs.cache
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.MvcApplicationPartsAssemblyInfo.cs
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.MvcApplicationPartsAssemblyInfo.cache
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.sourcelink.json
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets.build.json
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets.development.json
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.API-GITHUB.Microsoft.AspNetCore.StaticWebAssets.props
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.build.API-GITHUB.props
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.API-GITHUB.props
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.API-GITHUB.props
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets.pack.json
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/scopedcss/bundle/API-GITHUB.styles.css
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.csproj.CopyComplete
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/refint/API-GITHUB.dll
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.pdb
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.genruntimeconfig.cache
+/run/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/ref/API-GITHUB.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/appsettings.Development.json
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/appsettings.json
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.deps.json
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.runtimeconfig.json
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.pdb
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Azure.Core.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Azure.Identity.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Humanizer.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Mono.TextTemplating.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.CodeDom.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.Convention.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.Hosting.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.Runtime.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Drawing.Common.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Memory.Data.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Runtime.Caching.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Security.Permissions.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Windows.Extensions.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.csproj.AssemblyReference.cache
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.GeneratedMSBuildEditorConfig.editorconfig
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.AssemblyInfoInputs.cache
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.AssemblyInfo.cs
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.csproj.CoreCompileInputs.cache
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.MvcApplicationPartsAssemblyInfo.cs
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.MvcApplicationPartsAssemblyInfo.cache
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.sourcelink.json
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets.build.json
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets.development.json
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.API-GITHUB.Microsoft.AspNetCore.StaticWebAssets.props
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.build.API-GITHUB.props
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.API-GITHUB.props
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.API-GITHUB.props
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets.pack.json
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/scopedcss/bundle/API-GITHUB.styles.css
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.csproj.CopyComplete
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/refint/API-GITHUB.dll
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.pdb
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.genruntimeconfig.cache
+/media/user/809dcf59-7713-476e-8193-3d9469cb5075/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/ref/API-GITHUB.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/appsettings.Development.json
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/appsettings.json
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.deps.json
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.runtimeconfig.json
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.pdb
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Azure.Core.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Azure.Identity.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Humanizer.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Mono.TextTemplating.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.CodeDom.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.Convention.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.Hosting.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.Runtime.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Drawing.Common.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Memory.Data.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Runtime.Caching.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Security.Permissions.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Windows.Extensions.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.csproj.AssemblyReference.cache
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.GeneratedMSBuildEditorConfig.editorconfig
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.AssemblyInfoInputs.cache
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.AssemblyInfo.cs
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.csproj.CoreCompileInputs.cache
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.MvcApplicationPartsAssemblyInfo.cs
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.MvcApplicationPartsAssemblyInfo.cache
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.sourcelink.json
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets.build.json
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets.development.json
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.API-GITHUB.Microsoft.AspNetCore.StaticWebAssets.props
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.build.API-GITHUB.props
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.API-GITHUB.props
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.API-GITHUB.props
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets.pack.json
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/scopedcss/bundle/API-GITHUB.styles.css
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.csproj.CopyComplete
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/refint/API-GITHUB.dll
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.pdb
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.genruntimeconfig.cache
+/media/user/HDD 1TiB/home/samu/Documents/git/email/API-GITHUB/obj/Debug/net8.0/ref/API-GITHUB.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/appsettings.Development.json
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/appsettings.json
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.deps.json
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.runtimeconfig.json
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.pdb
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Azure.Core.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Azure.Identity.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Humanizer.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.CodeDom.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Memory.Data.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Runtime.Caching.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.csproj.AssemblyReference.cache
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.AssemblyInfoInputs.cache
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.AssemblyInfo.cs
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.csproj.CoreCompileInputs.cache
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.MvcApplicationPartsAssemblyInfo.cs
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.MvcApplicationPartsAssemblyInfo.cache
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.sourcelink.json
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets.build.json
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets.development.json
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.API-GITHUB.Microsoft.AspNetCore.StaticWebAssets.props
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.build.API-GITHUB.props
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.API-GITHUB.props
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.API-GITHUB.props
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets.pack.json
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/scopedcss/bundle/API-GITHUB.styles.css
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.csproj.CopyComplete
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.dll
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/refint/API-GITHUB.dll
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.pdb
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.genruntimeconfig.cache
+/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/ref/API-GITHUB.dll
+/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Newtonsoft.Json.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/appsettings.Development.json
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/appsettings.json
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.deps.json
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.runtimeconfig.json
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/API-GITHUB.pdb
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Azure.Core.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Azure.Identity.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Humanizer.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Mono.TextTemplating.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Newtonsoft.Json.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.CodeDom.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.Convention.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.Hosting.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.Runtime.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Drawing.Common.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Memory.Data.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Runtime.Caching.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Security.Permissions.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/System.Windows.Extensions.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.csproj.AssemblyReference.cache
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.AssemblyInfoInputs.cache
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.AssemblyInfo.cs
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.csproj.CoreCompileInputs.cache
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.MvcApplicationPartsAssemblyInfo.cs
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.MvcApplicationPartsAssemblyInfo.cache
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.sourcelink.json
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets.build.json
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets.development.json
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.API-GITHUB.Microsoft.AspNetCore.StaticWebAssets.props
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.build.API-GITHUB.props
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.API-GITHUB.props
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.API-GITHUB.props
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/staticwebassets.pack.json
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/scopedcss/bundle/API-GITHUB.styles.css
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.csproj.CopyComplete
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/refint/API-GITHUB.dll
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.pdb
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/API-GITHUB.genruntimeconfig.cache
+/run/media/root/lubuntu_2404/home/user/Documents/git/email/API-GITHUB/obj/Debug/net8.0/ref/API-GITHUB.dll
