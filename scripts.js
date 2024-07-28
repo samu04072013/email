@@ -60,19 +60,17 @@ function EnviarCorreo(asunto, mensaje, destinatario, remitente) {
   }
 
 function verCorreos(correo) {
-const result = fetch('http://localhost:5011/Email/VerCorreos', {
-    method: 'POST',
-    headers: {
-    'Content-Type': 'application/json'
-    },
-    body: JSON.stringify({
-        correo: correo
-    })
-})
-.then(response => response.json())
-.then(data => data)
-.catch(error => error);
-return result
+    return fetch(`http://localhost:5011/Email/VerCorreos?correo={correo}`, {
+        method: 'POST',
+        headers: {
+          'Accept': 'text/plain'
+        },
+        body: '' // or omit this line since the body is empty
+      })
+        .then(response => response.text())
+        .then(data => data)
+        .catch(error => console.error('Error:', error))
+    
 }
 
 
@@ -153,7 +151,9 @@ document.addEventListener("DOMContentLoaded", function() {
         if (type === "inbox") {
 
             verCorreos(document.getElementById("email").value).then((value) => {
-                filteredEmails.push(value);
+                filteredEmails = JSON.parse(value);
+                console.info(value);
+                foreach_filteredEmails();
             })
         } else if (type === "sent") {
             for (let i = 0; i < emails.length; i++) {
@@ -172,19 +172,22 @@ document.addEventListener("DOMContentLoaded", function() {
                 }
             }
         }
+        console.info(filteredEmails);
+        function foreach_filteredEmails() {
 
-        for(let email_i = 0; email_i < filteredEmails.length; email_i++){
-                let email_l = filteredEmails[email_i];
+        filteredEmails.forEach(email_l => {
+            console.debug(email_l);
                 const emailItem = document.createElement("div");
                 emailItem.className = "email-item";
                 emailItem.innerHTML = `
                 <div class="email-info">
-                <span><strong>De:</strong> ${email_l.sender}</span>
-                <span><strong>Para:</strong> ${email_l.recipients.join(", ")}</span>
-                <span><strong>Título:</strong> ${email_l.title}</span>
+                <span><strong>De:</strong> ${email_l.remitente}</span>
+                <span><strong>Para:</strong> ${email_l.destinatarios.join(", ")}</span>
+                <span><strong>Título:</strong> ${email_l.asunto}</span>
                 </div>
                 ${email_l.read ? "" : '<div class="unread-dot"></div>'}
                 `;
+                console.debug("hola")
                 emailItem.addEventListener("click", () => {
                     email_l.read = true;
                     localStorage.setItem("emails", JSON.stringify(emails));
@@ -200,6 +203,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 mainContent.appendChild(emailItem);
                 
 
+        })
         }
     }
 

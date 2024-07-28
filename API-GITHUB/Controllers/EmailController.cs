@@ -61,7 +61,7 @@ public class EmailController:ControllerBase{
     }
 
     [HttpPost("VerCorreos")]
-    public List<CORREOS> VerCorreos(string correo){
+    public List<CorreosDTOs> VerCorreos(string correo){
 	    List<CORREOS> correos = new List<CORREOS>();
         CLIENTES cliente = new CLIENTES();
         cliente.Nombre = "";
@@ -69,12 +69,19 @@ public class EmailController:ControllerBase{
         cliente.Contrasenna = "";
         var q = from c in pruebasContext.CLIENTES
                 join cc in pruebasContext.ClienteCorreo on c.Correo equals cc.ClienteId
-                where c.Correo == cc.ClienteId
+                where c.Correo == correo
                 select  cc.Correo ;
+        List<CorreosDTOs> correosDTOs = new List<CorreosDTOs>();
+        foreach(var item in q){
+            correosDTOs.Add(new CorreosDTOs{
+                Remitente = item.Remitente,
+                Destinatarios = pruebasContext.ClienteCorreo.Where(x => x.Correo == item).Select(x => x.Cliente.Correo).ToList(),
+                Asunto = item.Asunto,
+                Cuerpo = item.Cuerpo
+            });
+        }
 
-
-
-       return q.ToList();
+       return correosDTOs;
     }
     [HttpPost("EditarUsuario")]
     public void EditarUsuario(string correo, bool passwd, string value){
